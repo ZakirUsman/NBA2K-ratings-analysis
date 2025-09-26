@@ -9,10 +9,10 @@ We found that while NBA 2K ratings generally correlate with real-world performan
 
 ## 📊 Dataset  
 Data was gathered and merged from the following sources:  
-- **nba_api** → player statistics  
-- **basketball-reference.com** → advanced and traditional stats  
-- **2kratings.com** → official NBA 2K25 ratings  
-- **rapidfuzz** → matched player names across datasets  
+- **nba_api** → Player statistics  
+- **basketball-reference.com** → Advanced and traditional stats  
+- **2kratings.com** → Official NBA 2K25 ratings  
+- **rapidfuzz** → Matched player names across datasets  
 
 **Key Statistics:**  
 - **Traditional Stats** → PPG, RPG, APG, FG%, 3P%, FT%  
@@ -23,10 +23,10 @@ Data was gathered and merged from the following sources:
 
 ## 🛠️ Technologies and Tools  
 - **Python**  
-- **Pandas, NumPy** → data cleaning and preprocessing  
+- **Pandas, NumPy** → Data cleaning and preprocessing  
 - **scikit-learn** → Linear Regression, Random Forest Regressor, evaluation  
-- **Matplotlib, Seaborn** → visualization of results and feature importance  
-- **Jupyter Notebooks** → reproducible workflow  
+- **Matplotlib, Seaborn** → Visualization of results and feature importance  
+- **Jupyter Notebooks** → Reproducible workflow  
 
 ---
 
@@ -51,7 +51,7 @@ Data was gathered and merged from the following sources:
 ## 🔍 Key Insights  
 - **LeBron James** → Consistently rated higher in NBA 2K than predicted. Likely due to legacy, media hype, and market influence from playing on the Los Angeles Lakers.  
 - **Tyrese Haliburton** → Aligned closely with statistical predictions but highlighted potential small-market perception bias.  
-- **Overall** → Ratings showed a moderate-to-strong correlation with performance, but with clear outliers.  
+- **Overall** → Ratings showed a moderate-to-strong correlation with performance, but with clear understandable outliers.  
 
 ---
 
